@@ -2,5 +2,5 @@
 
 Este es un breve proyecto aplicando el conocimiento adquirido sobre la POO
 
-Ese contiene Clases, atributos y metodos. El objetivo es ver como se emplean 
+Este contiene Clases, atributos y metodos. El objetivo es ver como se emplean 
 y se utilizan en C#
