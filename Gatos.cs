@@ -6,7 +6,7 @@ public class Gato
     public string Nombre { get; set; }
     public int Edad { get; set; }
     public string Color { get; set; }
-
+    
     // Constructor
     public Gato(string nombre, int edad, string color)
     {
@@ -14,20 +14,20 @@ public class Gato
         Edad = edad;
         Color = color;
     }
-
+    
     // Métodos (comportamiento)
     public void Maullar()
     {
-        Console.WriteLine($"{Nombre} está maullando: ¡Miau!");
+        Console.WriteLine($"{Nombre} esta maullando: Miau!");
     }
-
+    
     public void Comer()
     {
-        Console.WriteLine($"{Nombre} está comiendo su comida favorita.");
+        Console.WriteLine($"{Nombre} esta comiendo su comida favorita.");
     }
-
+    
     public void Dormir()
     {
-        Console.WriteLine($"{Nombre} está durmiendo plácidamente.");
+        Console.WriteLine($"{Nombre} esta durmiendo placidamente.");
     }
 }
